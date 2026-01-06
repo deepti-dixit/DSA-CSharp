@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DSA_Practice.Basics
 {
@@ -10,7 +6,10 @@ namespace DSA_Practice.Basics
     {
         public static void SayHello()
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Welcome To My World!");
+            Console.WriteLine("Enter Your Name: ");
+            string name = Console.ReadLine();
+            Console.WriteLine($"Hello, {name}");
         }
     }
 }

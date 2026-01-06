@@ -1,11 +1,13 @@
-﻿using DSA_Practice.Basics;
-using System;
+﻿using System;
+using DSA_Practice.Basics;
 
 class Program
 {
     static void Main()
     {
-        printHelloWorld.SayHello();
+        //printHelloWorld.SayHello();
+        //AddTwoNumbers.Run();
+        basicCalculator.calculator();
     }
 
 }
