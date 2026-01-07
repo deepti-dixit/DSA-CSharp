@@ -7,7 +7,9 @@ class Program
     {
         //printHelloWorld.SayHello();
         //AddTwoNumbers.Run();
-        basicCalculator.calculator();
+        //basicCalculator.calculator();
+        //checkOddEven.checkEvenOdd();
+        checkPositiveNegative.check();
     }
 
 }
