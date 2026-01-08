@@ -9,7 +9,8 @@ class Program
         //AddTwoNumbers.Run();
         //basicCalculator.calculator();
         //checkOddEven.checkEvenOdd();
-        checkPositiveNegative.check();
+        //checkPositiveNegative.check();
+        checkMaximum.check();
     }
 
 }
