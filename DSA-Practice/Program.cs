@@ -1,5 +1,6 @@
 ﻿using System;
 using DSA_Practice.Basics;
+using DSA_Practice.Pattern;
 
 class Program
 {
@@ -10,7 +11,9 @@ class Program
         //basicCalculator.calculator();
         //checkOddEven.checkEvenOdd();
         //checkPositiveNegative.check();
-        checkMaximum.check();
+        //checkMaximum.check();
+        squarePattern.printPattern();
+
     }
 
 }

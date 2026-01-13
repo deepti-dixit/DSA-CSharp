@@ -8,4 +8,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Basics\NewFolder\**" />
+    <EmbeddedResource Remove="Basics\NewFolder\**" />
+    <None Remove="Basics\NewFolder\**" />
+  </ItemGroup>
+
 </Project>
